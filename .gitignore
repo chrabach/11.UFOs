@@ -1,3 +1,12 @@
+
+#files I'd like ignored
+ufo_starterCode.js
+11.Rewind.docx
+Deliverable.docx
+/static/js/app_CLASS.js
+index_CLASS.html
+rstart.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
