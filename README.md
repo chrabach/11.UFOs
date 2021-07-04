@@ -12,7 +12,7 @@ The core of this project is a website that not only displays UFO data, but also 
 
 ## Results
 
-The website defaults to a single date field filled in, in this case 1/10/2010 as in Figure 1
+
 ![Fig1: Clear Filters](other_resources/01_Fig1_Clear_Filters.png)
 [Fig1: Clear Filters](other_resources/01_Fig1_Clear_Filters.png?raw=true "Figure 1: Clear Filters")
 The website defaults to a single date field filled in, in this case 1/10/2010 as in Figure 1.  
