@@ -72,27 +72,14 @@ function updateFilters() {
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
 	
-	//emma
+
 	Object.entries(filters).forEach(([key,value])=>{
 		filteredData=filteredData.filter(row => row[key] === value
 		);
 		console.log(key,value)
 	});
 	
-	
-	
-	//nat:
-	//Object.entries[filters].forEach(([key,value])=>{
-	//	filteredData=filteredData.filter(row => row.tag === input);
-	//	console.log(tag,input)
-	//};
-	
-	
-	
-	
-	
-    
-  
+
     // 10. Finally, rebuild the table using the filtered data
     buildTable(filteredData)
   }
@@ -100,11 +87,6 @@ function updateFilters() {
   // 2. Attach an event to listen for changes to each filter
   
 
-	//11.5.3
-	//this is from Class Wednesday #7 Bonus
-	
-	//let value = d3.event.target.value;
-			//d3.selectall
 	
 	
 	//11.5.4
